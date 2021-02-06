@@ -10,7 +10,7 @@ int main()
 	{
 		cin>>arr[i];
 	}
-	for(int j=0;j<n-1;j++)
+	for(int j=0;j<n-1;j++)// hello
 	{
 		sum1+=arr[j];
 	}
