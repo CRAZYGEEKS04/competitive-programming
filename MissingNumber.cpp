@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+	//THIS IS A CODE
     long int n,sum=0,sum1=0,arr[300000],opt;
 	cin>>n;
 	sum=(n*(n+1))/2;
